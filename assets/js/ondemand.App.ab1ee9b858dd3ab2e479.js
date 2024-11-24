@@ -4087,7 +4087,6 @@
                                     return r.a.createElement(
                                         oe.a,
                                         { style: [jo.entry, n === e.conversationId && jo.active], link: { pathname: "/messages/".concat(e.conversationId), anchorless: !0, query: $t(Kt()) }, key: e.conversationId },
-                                        r.a.createElement(Ot.a, { size: "xLarge", style: jo.avatar, uri: e.isGroupConversation ? "./assets/images/groupAvatar.svg" : Eo(e) }),
                                         r.a.createElement(
                                             p.a,
                                             { style: jo.summary },
